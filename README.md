@@ -109,6 +109,13 @@ irb(main):002:0>
 ```
 > The abbove snippet is an example codeblock error that appears in Bash.
 
+
+## Step 2 - How to take screenshots
+
+### Don't do this!
+
+![Pic from phone](assets/badscreenshot.jpg)
+
 ## Step 3 - Use Github Flavored Markdown Tasks List
 Github extends Markdown to hqve a list where you can check off items. <sup>[1]</sup>
 
