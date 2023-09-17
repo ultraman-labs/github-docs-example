@@ -127,7 +127,7 @@ This is what a screenshot from your computer should look like
 
 **DO THIS INSTEAD**
 
-![Screenshot example](assets/dothis.jpg)
+<img width=700 src="https://github.com/ultraman-labs/github-docs-example/blob/main/assets/dothis.jpg" />
 
 To take screenshots on both Mac and Windows computers, you can use hotkey combinations. Here are the most common hotkeys for taking screenshots on each operating system:
 
@@ -159,7 +159,7 @@ To take screenshots on both Mac and Windows computers, you can use hotkey combin
 Please note that the exact key combinations and functionality may vary depending on your specific Windows version. Additionally, on some Windows laptops, you might need to use the "Fn" key in combination with the hotkeys mentioned above, like `Fn + PrtScn` or `Fn + Windows + Shift + S`.
 
 ## Step 3 - Use Github Flavored Markdown Tasks List
-Github extends Markdown to hqve a list where you can check off items. <sup>[1]</sup>
+Github extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
 
 - [x] Finish Step 1
 - [] Finish Step 2
@@ -189,8 +189,8 @@ You can use the following format to create tables:
 | Alien | `:alien:` | :alien: |
 ```
 
-Github extends the funcionalitiy of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#sources)
-## Sources (External References)
+Github extends the funcionalitiy of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#external-references)
+## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 - [Basic Writing and Formatting Syntax (Github Flavoured Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
 - [GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
