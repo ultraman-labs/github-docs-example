@@ -190,6 +190,13 @@ You can use the following format to create tables:
 ```
 
 Github extends the funcionalitiy of Markdown tables to provide more alignment and table cell formatting options.[<sup>[2]</sup>](#external-references)
+
+- Make note of where the pipe keyboard key is located.
+- It should appear above return or enter key
+- but it may vary based on your keyboard layout.
+
+  ![backtick](assets/backtick.jpg)
+
 ## External References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
 - [Basic Writing and Formatting Syntax (Github Flavoured Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
