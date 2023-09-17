@@ -1,8 +1,11 @@
 # Best Practices For Writing Documentaion Well
 
+When you can always provide a codeblock instead of a screenshot.
+If you need to take a screenshot make sure it's not a photo from your phone.
+
 ## Step 1 - Using Codeblocks
 
-Codelblocks in markdonw make it _very easy_ for tech people to **copy, paste, share code**.
+Codeblocks in markdonw make it _very easy_ for tech people to **copy, paste, share code**.
 A good cloud engineer uses codebloacke whenever possible because it allows others to
 copy and paste their code to replicate or research issues.
 
@@ -110,11 +113,50 @@ irb(main):002:0>
 > The abbove snippet is an example codeblock error that appears in Bash.
 
 
+> There are certain cases where it's okay to take photos from your phone. This something like showing a keyboard that does not appear on your computer screen.
+If it's rendered on your computer screen, it should be a screenshot.
+
 ## Step 2 - How to take screenshots
 
-### Don't do this!
+**DON'T DO THIS!!**
 
 ![Pic from phone](assets/badscreenshot.jpg)
+
+This is what a screenshot from your computer should look like
+
+
+**DO THIS INSTEAD**
+
+![Screenshot example](assets/dothis.jpg)
+
+To take screenshots on both Mac and Windows computers, you can use hotkey combinations. Here are the most common hotkeys for taking screenshots on each operating system:
+
+**For Mac:**
+
+1. **Capture the Entire Screen:**
+   - Press `Shift + Command (⌘) + 3`. This will capture the entire screen and save the screenshot as a file on your desktop by default.
+
+2. **Capture a Selected Portion of the Screen:**
+   - Press `Shift + Command (⌘) + 4`. This will turn your cursor into a crosshair. Click and drag to select the portion of the screen you want to capture, and release the mouse button. The screenshot will be saved as a file on your desktop.
+
+3. **Capture a Specific Window:**
+   - Press `Shift + Command (⌘) + 4`, then press the `Spacebar`. Your cursor will turn into a camera icon. Click on the window you want to capture. The screenshot of the selected window will be saved as a file on your desktop.
+
+**For Windows:**
+
+1. **Capture the Entire Screen:**
+   - Press `PrtScn` (Print Screen) key. The screenshot will be copied to your clipboard, and you can paste it into an image editing program (like Paint or Photoshop) to save it or make edits.
+
+2. **Capture the Active Window:**
+   - Press `Alt + PrtScn`. This captures only the active window and copies it to your clipboard.
+
+3. **Capture a Selected Portion of the Screen (Windows 10 and later):**
+   - Press `Windows + Shift + S`. This will dim the screen, and you can then click and drag to select the portion of the screen you want to capture. The screenshot will be copied to your clipboard, and you can paste it into an image editing program to save it.
+
+4. **Capture the Entire Screen and Save as a File (Windows 10 and later):**
+   - Press `Windows + Shift + S`, then select the "Screen snip" option from the small toolbar that appears at the top of your screen. This allows you to capture the entire screen and save it as a file without using the clipboard.
+
+Please note that the exact key combinations and functionality may vary depending on your specific Windows version. Additionally, on some Windows laptops, you might need to use the "Fn" key in combination with the hotkeys mentioned above, like `Fn + PrtScn` or `Fn + Windows + Shift + S`.
 
 ## Step 3 - Use Github Flavored Markdown Tasks List
 Github extends Markdown to hqve a list where you can check off items. <sup>[1]</sup>
